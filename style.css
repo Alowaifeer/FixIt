@@ -1,0 +1,45 @@
+body {
+    background-color: lightgreen;
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.a {
+ margin-bottom: 10px;
+
+}
+.carousel-container, .carousel-item {
+    height: 650px;
+    width: 100%;
+}  
+footer {
+    margin-top: 350px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    background: rgb(92, 150, 6);
+    text-align: center;
+  }
+  
+  footer .logo {
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  footer ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 5px 20px;
+  }
+  
+  footer p {
+    
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+  }
+ 
